@@ -42,7 +42,6 @@ def main():
                     if not os.path.exists(path + '\picture\{}'.format(info['title'])):
                         os.mkdir(path + '\picture\{}'.format(info['title']))
 
-                    # 图片路径
                     pic_file = path + '\picture\{}'.format(info['title'])
 
                     # 下载图片
