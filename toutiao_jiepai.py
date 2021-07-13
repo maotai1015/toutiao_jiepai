@@ -12,6 +12,7 @@ path = os.getcwd()
 
 def main():
     flag = 0
+    A =0
     offset = 0  # 页数
     while flag == 0:
         try:
