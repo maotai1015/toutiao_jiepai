@@ -3,7 +3,7 @@ import time
 import json
 import os
 from hashlib import md5
-bbbbbb
+# bbbbbb
 header = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) '
                           'AppleWebKit/537.36 (KHTML, like Gecko) '
                           'Chrome/69.0.3486.0 Safari/537.36'}
@@ -11,6 +11,8 @@ header = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) '
 path = os.getcwd()
 
 #  哈哈哈哈
+
+# 嘿嘿嘿
 def main():
     flag = 0
     A =0
